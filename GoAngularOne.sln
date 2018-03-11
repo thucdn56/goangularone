@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoAngularOne.Common", "GoAngularOne.Common\GoAngularOne.Common.csproj", "{667E473D-183C-4528-8687-2A9EAA62C972}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoAngularOne.Data", "GoAngularOne.Data\GoAngularOne.Data.csproj", "{FF63CC9D-2FA1-458A-AD05-53E6F2034BFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoAngularOne.Model", "GoAngularOne.Model\GoAngularOne.Model.csproj", "{DC29E455-463D-46A7-BEC9-65839687419A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoAngularOne.Service", "GoAngularOne.Service\GoAngularOne.Service.csproj", "{F7B4C57A-D4B5-4D4D-BB78-9DA667B110AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoAngularOne.UnitTest", "GoAngularOne.UnitTest\GoAngularOne.UnitTest.csproj", "{51EF55A6-7F3A-4DAF-9353-C9A312396946}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoAngularOne.Web", "GoAngularOne.Web\GoAngularOne.Web.csproj", "{B3DB221B-080A-400D-BB5B-D4EE6803F923}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{667E473D-183C-4528-8687-2A9EAA62C972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{667E473D-183C-4528-8687-2A9EAA62C972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{667E473D-183C-4528-8687-2A9EAA62C972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{667E473D-183C-4528-8687-2A9EAA62C972}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF63CC9D-2FA1-458A-AD05-53E6F2034BFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF63CC9D-2FA1-458A-AD05-53E6F2034BFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF63CC9D-2FA1-458A-AD05-53E6F2034BFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF63CC9D-2FA1-458A-AD05-53E6F2034BFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC29E455-463D-46A7-BEC9-65839687419A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC29E455-463D-46A7-BEC9-65839687419A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC29E455-463D-46A7-BEC9-65839687419A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC29E455-463D-46A7-BEC9-65839687419A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7B4C57A-D4B5-4D4D-BB78-9DA667B110AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7B4C57A-D4B5-4D4D-BB78-9DA667B110AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7B4C57A-D4B5-4D4D-BB78-9DA667B110AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7B4C57A-D4B5-4D4D-BB78-9DA667B110AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51EF55A6-7F3A-4DAF-9353-C9A312396946}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51EF55A6-7F3A-4DAF-9353-C9A312396946}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51EF55A6-7F3A-4DAF-9353-C9A312396946}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51EF55A6-7F3A-4DAF-9353-C9A312396946}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3DB221B-080A-400D-BB5B-D4EE6803F923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3DB221B-080A-400D-BB5B-D4EE6803F923}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3DB221B-080A-400D-BB5B-D4EE6803F923}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3DB221B-080A-400D-BB5B-D4EE6803F923}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
